@@ -74,3 +74,35 @@ username=darthinfo21&show_icons=true&theme=radical" alt="darthinfo21" />
 Connect with Me
 * [LinkedIn](https://linkedin.com/in/siddarth-datti)
 * Email: dattisiddharth@gmail.com
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <h1 class="hero-title animate-fade-rise">The best way to predict the future is to invent it.</h1>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/mahindra-alla/">
+      <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+    </a>
+    <a href="mailto:a.mahindra89@gmail.com">
+      <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+    </a>
+  </p>
+
+  <img src="https://komarev.com/ghpvc/?username=mahindra-alla&color=blue" alt="visitors" />
+
+  <h1>Hey there 👋</h1>
+</div>
+
+---
+
+
+
+### 🛠 Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,js,cpp,java,mysql,postgres,mongodb,aws,azure,gcp,docker,kubernetes,githubactions&perline=8" />
+</p>
+
+
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
+</div>
