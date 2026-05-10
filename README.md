@@ -1,19 +1,13 @@
 # Hi there, I'm Siddarth Datti
-<p align="left">
-<a href="https://linkedin.com/in/siddarth-datti" target="blank"><img align="center"
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/
-master/src/images/icons/Social/linked-in-alt.svg" alt="siddarth-datti" height="30"
-width="40" /></a>
-</p>
+
 ### About Me
 I am a results-driven developer with a strong foundation in both software
 engineering and hardware integration. I specialize in building efficient back-end
 systems and responsive front-end applications, while also enjoying hands-on work
 with microcontrollers.
-- I’m currently focusing on **Full-Stack Development** and **Embedded Systems**.
+- I’m currently focusing on Full-Stack Development and Embedded Systems.
 - Learning: Advanced Cloud Architectures and IoT Security.
-- Ask me about: **Python, SpringBoot, or Arduino**.
-- Reach me at: **dattisiddharth@gmail.com**
+- Ask me about: Python, SpringBoot, or Arduino.
 ---
 ### 🛠 Tech Stack
 **Core Languages**
@@ -33,10 +27,6 @@ badge&logo=html5&logoColor=white" />
 
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-
 badge&logo=css3&logoColor=white" />
-
-1.
-2.
-3.
 
 </p>
 **Frameworks & Databases**
@@ -75,13 +65,12 @@ badge&logo=postman&logoColor=white" />
 
 </p>
 ---
-### GitHub Activity
+GitHub Activity
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?
 username=darthinfo21&show_icons=true&theme=radical" alt="darthinfo21" />
 </p>
 ---
-### Connect with Me
+Connect with Me
 * [LinkedIn](https://linkedin.com/in/siddarth-datti)
-* [GitHub](https://github.com/darthinfo21)
 * Email: dattisiddharth@gmail.com
